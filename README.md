@@ -129,6 +129,10 @@ Created by Vinay
 <img width="1116" height="1005" alt="image" src="https://github.com/user-attachments/assets/a1e375de-26ef-45a8-b3dc-543b987561af" />
 <img width="1847" height="609" alt="image" src="https://github.com/user-attachments/assets/70d73bbd-702c-46f1-8383-773f7f39e366" />
 
+## after custom api 
+
+<img width="1187" height="992" alt="image" src="https://github.com/user-attachments/assets/7145a928-b45e-4e40-a475-84822570eece" />
+
 
 
 ---
