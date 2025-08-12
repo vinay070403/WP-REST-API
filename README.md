@@ -71,7 +71,10 @@ For more details, see the [WordPress REST API Handbook](https://developer.wordpr
 - Web security feature called **CORS (Cross-Origin Resource Sharing)** blocks requests from unauthorized origins.
 
 **Solution:**  
-- Add CORS headers in your plugin to allow your frontend or Postman origin:  
+1. use WP-CLI inside the site's site shell:
+wp post create --post_type=rt-celebs --post_title="Famous Star" --post_status=publish --post_content="bio"
+
+2 . - Add CORS headers in your plugin to allow your frontend or Postman origin:  
 ```php
 header('Access-Control-Allow-Origin: https://localhost:10022');
 header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
